@@ -3,8 +3,8 @@
     <header class="header">
       <h1>Book stacks</h1>
       <nav class="navigation-menu">
-        <a href="#">About</a>
-        <a href="#">GitHub</a>
+        <a href="https://www.badrchoubai.dev/">About</a>
+        <a href="https://github.com/BadrChoubai/BookStacks">GitHub</a>
       </nav>
     </header>
     <div class="container">
